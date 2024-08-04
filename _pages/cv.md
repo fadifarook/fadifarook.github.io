@@ -9,14 +9,14 @@ description: Detailed CV available for download.
 <div class="container mt-5" role="main">
   <h1>{{ page.title }}</h1>
   <p>
-    <a href="fadifarook.github.io/assets/pdf/example_pdf.pdf" target="_blank">Click here to view the PDF</a>.
+    <a href="{{ site.baseurl }}/assets/pdf/example_pdf.pdf" target="_blank">Click here to view the PDF</a>.
   </p>
 </div>
 
 <!-- JavaScript to automatically open the PDF -->
 <script>
     window.onload = function() {
-        var pdfUrl = "fadifarook.github.io/assets/pdf/example_pdf.pdf";
+        var pdfUrl = "{{ site.baseurl }}/assets/pdf/example_pdf.pdf";
         window.open(pdfUrl, '_blank');
     };
 </script>
