@@ -19,13 +19,13 @@ cv_pdf: Fadi_CV.pdf
     September 2023 - August 2024: Laser-Matter Interaction Research at the University of Toronto. This is the software I built to control and calibrate the Mass Spectrometer
 </div>
 
-I am currently working with <a href="https://lphys.chem.utoronto.ca/">Professor Dwayne Miller</a>, where I have done 2 projects. My first project (thesis) involved modelling nano and picosecond laser heating of breast tumor tissue. I quantified tissue death and heating times. This was used to compare against continuous wave lasers of the same power. I also performed laser ablations on biological samples.
+I am currently working with <a href="https://lphys.chem.utoronto.ca/">Professor Dwayne Miller</a>, where I have done 2 projects. My first project (thesis) involved modelling nano and picosecond laser heating of breast tumor tissue. I quantified tissue death and heating times. This was used to compare against continuous wave lasers of the same power. I also performed laser ablations on biological samples. I was a contributing author on an associated conference proceeding {% cite 10.1117/12.3000396 %}.
 
 My second project involved instrumentation of pulse generators, oscilloscopes and voltage supplies to run our Laser Ablation - Time of Flight Mass Spectrometer, and write software that handles collection of the data. I also used bayesian optimization to identify the ideal parameters for maximum resolution. 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <br>
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -41,7 +41,7 @@ I worked with <a href="https://www.uwindsor.ca/people/thammond/profiles/thammond
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <br>
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
@@ -59,7 +59,7 @@ I worked with Dr. Carolyn Sealfon, where I and a couple of colleagues implemente
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <br>
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 <div class="row">
