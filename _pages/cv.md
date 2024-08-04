@@ -1,7 +1,7 @@
 ---
 layout: page
 title: cv
-permalink: /cv/
+permalink: /assets/pdf//Fadi_CV.pdf
 nav: true
 nav_order: 3
 cv_pdf: Fadi_CV.pdf
