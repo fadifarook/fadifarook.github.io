@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: research
 permalink: /research/
 description: Posters and Conference Proceedings of my prior work.
 nav: true
