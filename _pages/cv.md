@@ -8,7 +8,9 @@ description: Detailed CV available for download.
 <!-- Page-specific content -->
 <div class="container mt-5" role="main">
   <h1>{{ page.title }}</h1>
-  <p>{{ <a href="{{ site.baseurl }}/assets/pdf/{{ page.cv_pdf }}" target="_blank">Click here to view the PDF</a>. }}</p>
+  <p>
+    <a href="{{ site.baseurl }}/assets/pdf/{{ page.cv_pdf }}" target="_blank">Click here to view the PDF</a>.
+  </p>
 </div>
 
 <!-- JavaScript to automatically open the PDF -->
