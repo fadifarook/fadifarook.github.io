@@ -8,6 +8,23 @@ nav_order: 2
 cv_pdf: Fadi_CV.pdf
 ---
 
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/2023.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    September 2023 - August 2024: Laser-Matter Interaction Research at the University of Toronto. This is the software I built to control and calibrate the Mass Spectrometer
+</div>
+
+I am currently working with <a href="https://lphys.chem.utoronto.ca/">Professor Dwayne Miller</a>, where I have done 2 projects. My first project (thesis) involved modelling nano and picosecond laser heating of breast tumor tissue. I quantified tissue death and heating times. This was used to compare against continuous wave lasers of the same power. I also performed laser ablations on biological samples.
+
+My second project involved instrumentation of pulse generators, oscilloscopes and voltage supplies to run our Laser Ablation - Time of Flight Mass Spectrometer, and write software that handles collection of the data. I also used bayesian optimization to identify the ideal parameters for maximum resolution. 
+
+
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/2023.png" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -19,9 +36,14 @@ cv_pdf: Fadi_CV.pdf
 
 I worked with <a href="https://www.uwindsor.ca/people/thammond/profiles/thammond">Professor T.J Hammond</a>, where I simulated various nonlinear optics processes. I modelled the Raman effect in particular, and compared pulse propagation equations in different media to balance accuracy and computation time. I presented posters at Photonics Online Meetup 2023 and <a href="https://indico.cern.ch/event/1316311/contributions/5867454/">CAP Congress 2024</a>.
 
+
+
+
+
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2022.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2022Fall.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -29,3 +51,20 @@ I worked with <a href="https://www.uwindsor.ca/people/thammond/profiles/thammond
 </div>
 
 I worked with Dr. Carolyn Sealfon, where I and a couple of colleagues implemented machine learning algorithms to quickly group student feedback in large classes. We were able to identify common points of confusion among first year physics students, and extract the most useful ones. We presented this poster at the UofT ROP Poster Fair 2023.
+
+
+
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/2022.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    June 2022 - August 2022: BioPhysics Research at the University of Toronto (lost higher resolution image)
+</div>
+
+I had the privilege of working with Dr. Anton Zilman (may his soul rest in peace) in biophysics research. He taught me how to do research for the first time, where I applied the Gillespie algorithm to model ligand-receptor interactions. This was done to compare against theoretical predictions of <a href="https://scholar.google.com/citations?user=6R-iNwsAAAAJ">Duncan Kirby</a>, whose work guided the project. This was presented at the Uoft SURF Poster competition in 2022.
+
+
