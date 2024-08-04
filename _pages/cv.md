@@ -15,7 +15,7 @@ nav_order: 3
   <!-- Dynamic PDF Link -->
   {% if page.cv_pdf %}
     <a
-      href="{{ site.baseurl }}/assets/pdf/{{ page.cv_pdf | relative_url }}"
+      href="/assets/pdf/{{ page.cv_pdf | relative_url }}"
       target="_blank"
       rel="noopener noreferrer"
       class="float-right"
@@ -28,7 +28,7 @@ nav_order: 3
 <!-- JavaScript to automatically open the PDF -->
 <script>
     window.onload = function() {
-        var pdfUrl = "{{ site.baseurl }}/assets/pdf/{{ page.cv_pdf | relative_url }}";
+        var pdfUrl = "/assets/pdf/{{ page.cv_pdf | relative_url }}";
         console.log('Attempting to open PDF at:', pdfUrl); // Debugging output
         window.open(pdfUrl, '_blank');
     };
