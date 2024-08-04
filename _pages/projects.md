@@ -4,7 +4,7 @@ title: research
 permalink: /research/
 description: Posters and Conference Proceedings of my prior work.
 nav: true
-nav_order: 3
+nav_order: 2
 ---
 
 <div class="row">

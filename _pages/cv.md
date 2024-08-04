@@ -4,10 +4,10 @@ title: cv
 permalink: /cv/
 description: a
 nav: true
-nav_order: 7
+nav_order: 3
 ---
 
-Click here for the PDF
+<a href="/assets/pdf/{{ page.cv_pdf | relative_url }}">Click here for the PDF</a>
 
 <!-- JavaScript to automatically open the PDF -->
 <script>
