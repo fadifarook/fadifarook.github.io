@@ -24,7 +24,8 @@ I am currently working with <a href="https://lphys.chem.utoronto.ca/">Professor 
 My second project involved instrumentation of pulse generators, oscilloscopes and voltage supplies to run our Laser Ablation - Time of Flight Mass Spectrometer, and write software that handles collection of the data. I also used bayesian optimization to identify the ideal parameters for maximum resolution. 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+<br>
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -38,6 +39,8 @@ My second project involved instrumentation of pulse generators, oscilloscopes an
 I worked with <a href="https://www.uwindsor.ca/people/thammond/profiles/thammond">Professor T.J Hammond</a>, where I simulated various nonlinear optics processes. I modelled the Raman effect in particular, and compared pulse propagation equations in different media to balance accuracy and computation time. I presented posters at Photonics Online Meetup 2023 and <a href="https://indico.cern.ch/event/1316311/contributions/5867454/">CAP Congress 2024</a>.
 
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<br>
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -54,6 +57,8 @@ I worked with <a href="https://www.uwindsor.ca/people/thammond/profiles/thammond
 I worked with Dr. Carolyn Sealfon, where I and a couple of colleagues implemented machine learning algorithms to quickly group student feedback in large classes. We were able to identify common points of confusion among first year physics students, and extract the most useful ones. We presented this poster at the UofT ROP Poster Fair 2023.
 
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<br>
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
