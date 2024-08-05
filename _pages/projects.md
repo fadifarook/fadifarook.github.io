@@ -8,7 +8,7 @@ nav_order: 2
 ---
 
 
-<span class="bigger">Laser Heating and Ablation</span>
+<h3>Laser Heating and Ablation</h3>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -19,7 +19,7 @@ nav_order: 2
     September 2023 - August 2024: This is the software I built to control and calibrate the Mass Spectrometer. It can control the laser, oscilloscope, pulse generator and  voltage supllies simultaneously.
 </div>
 
-I am currently working with <a href="https://lphys.chem.utoronto.ca/">Professor Dwayne Miller</a>, with whom I have done 2 projects. My first project (thesis) involved modelling nano and picosecond laser heating of breast tumor tissue. I quantified tissue death and heating times. This was used to compare against continuous wave lasers of the same power. I also performed laser ablations on biological samples. I was a contributing author on an associated conference proceeding <a href="https://doi.org/10.1117/12.3000396">{% cite 10.1117/12.3000396 %}</a>.
+I am currently working with <a href="https://lphys.chem.utoronto.ca/">Professor Dwayne Miller</a>, with whom I have done 2 projects. My first project (thesis) involved modelling nano and picosecond laser heating of breast tumor tissue. I quantified tissue death and heating times. This was used to compare against continuous wave lasers of the same power. I also performed laser ablations on biological samples. I was a contributing author on an associated <a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12840/3000396/Modeling-wavelength-dependence-of-laser-tumor-hyperthermic-treatments/10.1117/12.3000396.short">SPIE conference proceeding</a>.
 
 For my second project, I developed and implemented instrumentation protocols for pulse generators, oscilloscopes, and voltage supplies to operate our Laser Ablation-Time of Flight Mass Spectrometer. I designed and wrote software for the collection and analysis of experimental data. Leveraging Bayesian optimization, I was able to maximize the resolution.
 
