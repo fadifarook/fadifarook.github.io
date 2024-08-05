@@ -1,6 +1,6 @@
 ---
 layout: page
-title: cv
+title: CV
 permalink: /assets/pdf//Fadi_CV.pdf
 nav: true
 nav_order: 3
