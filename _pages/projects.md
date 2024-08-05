@@ -5,7 +5,6 @@ permalink: /research/
 description: Posters and Conference Proceedings of my prior work.
 nav: true
 nav_order: 2
-cv_pdf: Fadi_CV.pdf
 ---
 
 

@@ -13,6 +13,9 @@ profile:
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
+
+cv_pdf: Fadi_CV.pdf
+
 ---
 
 Hello there! I am an undergraduate student at UofT, currently working with <a href="https://lphys.chem.utoronto.ca/">Professor Dwayne Miller</a> on laser heating and ablation dynamics. I think lasers and laser-matter interactions are pretty cool.
