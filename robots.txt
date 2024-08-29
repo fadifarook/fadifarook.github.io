@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://fadifarook.github.io/sitemap.xml
+Sitemap: https://fadifarook.com/sitemap.xml
