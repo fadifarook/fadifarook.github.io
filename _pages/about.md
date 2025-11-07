@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Applied Physics Graduate Student at Cornell University
+subtitle: Applied Physics Student at Cornell University
 
 profile:
   align: right
