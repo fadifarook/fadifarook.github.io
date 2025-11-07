@@ -18,8 +18,8 @@ cv_pdf: Fadi_CV.pdf
 
 ---
 
-Hello there! I am an undergraduate student at UofT, currently working with <a href="https://lphys.chem.utoronto.ca/">Professor Dwayne Miller</a> on laser heating and ablation dynamics. I think lasers and laser-matter interactions are pretty cool.
+Hello there! I am a graduate student at Cornell, currently working with <a href="https://sites.coecis.cornell.edu/rivera/">Professor Nicholas Rivera</a> on developing squeezed light sources. I think lasers and laser-matter interactions are pretty cool.
 
-I love tech, arduinos, horror, sci-fi and talking to people. If you're an aspiring physicist in highschool or just wanna chat about science, hit me up!
+I love tech, horror, sci-fi and talking to people. If you're an aspiring physicist in highschool or just wanna chat about science, hit me up!
 
 You can find my CV <a href="/assets/pdf/{{ page.cv_pdf | relative_url }}">here</a>.

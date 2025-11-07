@@ -6,11 +6,11 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Fadi Farook
 middle_name: 
 last_name: 
-email: fadi.farook@mail.utoronto.ca
+email: ff274@cornell.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text:
-keywords: fadi, fadi farook, farook, uoft, university of toronto, academic-website, portfolio-website, nonlinear optics, lasers, optics, laser-matter interaction, laser ablation, biological optics, ultrafast, physics PhD # add your own keywords or leave empty
+keywords: fadi, fadi farook, farook, uoft, university of toronto, academic-website, portfolio-website, nonlinear optics, lasers, optics, laser-matter interaction, laser ablation, biological optics, ultrafast, physics PhD, cornell, Rivera # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
