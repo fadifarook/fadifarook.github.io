@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Physics Student at the University of Toronto
+subtitle: Applied Physics Graduate Student at Cornell University
 
 profile:
   align: right
@@ -22,4 +22,4 @@ Hello there! I am a graduate student at Cornell, currently working with <a href=
 
 I love tech, horror, sci-fi and talking to people. If you're an aspiring physicist in highschool or just wanna chat about science, hit me up!
 
-You can find my CV <a href="/assets/pdf/{{ page.cv_pdf | relative_url }}">here</a>.
+You can find my CV <a href="/assets/pdf{{ page.cv_pdf | relative_url }}">here</a>.
