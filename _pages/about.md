@@ -20,6 +20,6 @@ cv_pdf: Fadi_CV.pdf
 
 Hello there! I am a graduate student at Cornell, currently working with <a href="https://sites.coecis.cornell.edu/rivera/">Professor Nicholas Rivera</a> on developing squeezed light sources. I think lasers and laser-matter interactions are pretty cool.
 
-I love tech, horror, sci-fi, games and talking to people. If you're a high school student or undergrad interested in physics, feel free to hit me up! I'm always happy to chat.
+I like tech, horror, sci-fi, games and talking to people. If you're a high school student or undergrad interested in physics, feel free to hit me up! I'm always happy to chat.
 
 You can find my CV <a href="/assets/pdf{{ page.cv_pdf | relative_url }}">here</a>.
